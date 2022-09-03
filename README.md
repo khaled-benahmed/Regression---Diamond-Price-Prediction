@@ -37,7 +37,7 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
  ## Machine Learning
  
 
-**1. Regression** 
+** Regression** 
 
 ### Regression on this dataset :
 
